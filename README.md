@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Meghna27si
+- 👀 I’m interested in cyber security and machine learning...
+- 🌱 I’m currently learning about AIML...
+- 📫 How to reach me--  www.linkedin.com/in/meghna-si...
+
+<!---
+Meghna27si/Meghna27si is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
